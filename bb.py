@@ -3,7 +3,7 @@ n=10;
 print(n,"hello I am 10")
 print("So now we can perform")
 
-fruits = ["vishal","love","Sanjana"]
+fruits = ["vishal","love","San"]
 for x in fruits:
 #   if x == "apple":
 #     continue
